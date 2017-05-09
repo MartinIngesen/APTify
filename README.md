@@ -18,7 +18,7 @@ APTify is the latest and greatest in deception technology. Allowing you to shift
 
 ### APTs supported
 
-- APT28 (China)
+- APT28 (Fancy Bear, Russia)
 
 ### Thanks
 
