@@ -19,6 +19,7 @@ try:
     document = args.path
     doc = Document(document)
     doc.core_properties.author = "Дмитрий"
+    doc.core_properties.last_modified_by = "Дмитрий"
     doc.save(document)
     print("APTification is complete.")
 except:
