@@ -12,13 +12,15 @@ APTify is the latest and greatest in deception technology. Allowing you to shift
 ### How to APT
 
 1. `pip install -r requirements.txt`
-2. `python3 APTify.py /path/to/document.docx`
+2. `python3 APTify.py /path/to/document.docx RUSSIA`
 3. Zip up documents.
 4. Torrent/Dump them online.
 
-### APTs supported
-
-- APT28 (Fancy Bear, Russia)
+### "APTs" supported
+- Guccifer 2.0 (Russia)
+  - Adds "Феликс Эдмундович" to the Last Modified By field.
+- Generic Russian
+  - Adds "Дмитрий" to the Author and Last Modified By field.
 
 ### Thanks
 
